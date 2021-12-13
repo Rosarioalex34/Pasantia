@@ -1,0 +1,198 @@
+[26-Feb-2019 09:20:32 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'joanwgeh_hometrix'@'localhost' (using password: YES) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 6
+[26-Feb-2019 09:20:32 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 09:20:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 09:21:28 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'joanwgeh_hometrix'@'localhost' (using password: YES) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 6
+[26-Feb-2019 09:21:28 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 09:21:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 09:24:45 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'joanwgeh_hometrix'@'localhost' (using password: YES) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 6
+[26-Feb-2019 09:24:45 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 09:24:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 09:27:00 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'joanwgeh_hometrix'@'localhost' (using password: YES) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 6
+[26-Feb-2019 09:27:00 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 09:27:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 09:27:06 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'joanwgeh_hometrix'@'localhost' (using password: YES) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 6
+[26-Feb-2019 09:27:06 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 09:27:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 09:27:34 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'joanwgeh_hometrix'@'localhost' (using password: YES) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 6
+[26-Feb-2019 09:27:34 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 09:27:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 09:28:33 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'joanwgeh_hometrix'@'localhost' (using password: YES) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 6
+[26-Feb-2019 09:28:33 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 09:28:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 09:31:20 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'joanwgeh_hometrix'@'localhost' (using password: YES) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 6
+[26-Feb-2019 09:31:20 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 16
+[26-Feb-2019 09:31:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 16
+[26-Feb-2019 09:32:51 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 16
+[26-Feb-2019 09:32:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 16
+[26-Feb-2019 09:34:24 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 16
+[26-Feb-2019 09:34:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 16
+[26-Feb-2019 09:35:11 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 16
+[26-Feb-2019 09:35:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 16
+[26-Feb-2019 09:35:39 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 16
+[26-Feb-2019 09:35:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 16
+[26-Feb-2019 09:36:34 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 16
+[26-Feb-2019 09:36:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 16
+[26-Feb-2019 09:37:22 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 16
+[26-Feb-2019 09:37:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 16
+[26-Feb-2019 09:37:36 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 16
+[26-Feb-2019 09:37:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 16
+[26-Feb-2019 09:37:51 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 16
+[26-Feb-2019 09:37:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 16
+[26-Feb-2019 09:39:52 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 16
+[26-Feb-2019 09:39:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 16
+[26-Feb-2019 09:40:41 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 16
+[26-Feb-2019 09:40:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 16
+[26-Feb-2019 09:41:08 America/New_York] PHP Warning:  fopen(images/logo.png): failed to open stream: No such file or directory in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/fpdf/fpdf.php on line 1259
+[26-Feb-2019 09:41:08 America/New_York] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/logo.png in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/fpdf/fpdf.php(885): FPDF->_parsepng('images/logo.png')
+#2 /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php(152): FPDF->Image('images/logo.png', 60, 25, 'C')
+#3 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/fpdf/fpdf.php on line 271
+[26-Feb-2019 09:41:51 America/New_York] PHP Warning:  fopen(images/logo.png): failed to open stream: No such file or directory in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/fpdf/fpdf.php on line 1259
+[26-Feb-2019 09:41:51 America/New_York] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/logo.png in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/fpdf/fpdf.php(885): FPDF->_parsepng('images/logo.png')
+#2 /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php(152): FPDF->Image('images/logo.png', 60, 25, 'C')
+#3 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/fpdf/fpdf.php on line 271
+[26-Feb-2019 09:44:07 America/New_York] PHP Warning:  fopen(images/logo.png): failed to open stream: No such file or directory in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/fpdf/fpdf.php on line 1259
+[26-Feb-2019 09:44:07 America/New_York] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/logo.png in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/fpdf/fpdf.php(885): FPDF->_parsepng('images/logo.png')
+#2 /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php(152): FPDF->Image('images/logo.png', 60, 25, 'C')
+#3 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/fpdf/fpdf.php on line 271
+[26-Feb-2019 09:44:13 America/New_York] PHP Warning:  fopen(images/logo.png): failed to open stream: No such file or directory in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/fpdf/fpdf.php on line 1259
+[26-Feb-2019 09:44:13 America/New_York] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/logo.png in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/fpdf/fpdf.php(885): FPDF->_parsepng('images/logo.png')
+#2 /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php(152): FPDF->Image('images/logo.png', 60, 25, 'C')
+#3 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/fpdf/fpdf.php on line 271
+[26-Feb-2019 09:46:32 America/New_York] PHP Warning:  fopen(images/logo.png): failed to open stream: No such file or directory in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/fpdf/fpdf.php on line 1259
+[26-Feb-2019 09:46:32 America/New_York] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/logo.png in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/fpdf/fpdf.php(885): FPDF->_parsepng('images/logo.png')
+#2 /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php(152): FPDF->Image('images/logo.png', 60, 25, 'C')
+#3 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/fpdf/fpdf.php on line 271
+[26-Feb-2019 09:57:16 America/New_York] PHP Warning:  fopen(images/logo.png): failed to open stream: No such file or directory in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/fpdf/fpdf.php on line 1259
+[26-Feb-2019 09:57:16 America/New_York] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: images/logo.png in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/fpdf/fpdf.php(885): FPDF->_parsepng('images/logo.png')
+#2 /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php(152): FPDF->Image('images/logo.png', 60, 25, 'C')
+#3 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/fpdf/fpdf.php on line 271
+[26-Feb-2019 10:08:28 America/New_York] PHP Notice:  Undefined index: txtIdCertificado in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 12
+[26-Feb-2019 10:08:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 17
+[26-Feb-2019 10:10:04 America/New_York] PHP Notice:  Undefined index: txtIdCertificado in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 12
+[26-Feb-2019 10:10:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 17
+[26-Feb-2019 10:16:31 America/New_York] PHP Notice:  Undefined index: txtIdCertificado in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 12
+[26-Feb-2019 10:16:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 17
+[26-Feb-2019 10:22:45 America/New_York] PHP Notice:  Undefined variable: image in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 278
+[26-Feb-2019 10:22:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function adaptiveResizeImage() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:278
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 278
+[26-Feb-2019 10:24:09 America/New_York] PHP Notice:  Undefined index: txtIdCertificado in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 12
+[26-Feb-2019 10:24:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 17
+[26-Feb-2019 10:24:52 America/New_York] PHP Notice:  Undefined index: txtIdCertificado in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 12
+[26-Feb-2019 10:24:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 17
+[28-Feb-2019 08:20:44 America/New_York] PHP Notice:  Undefined index: txtIdCertificado in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 12
+[28-Feb-2019 08:20:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 17
+[01-Mar-2019 16:26:29 America/New_York] PHP Notice:  Undefined index: txtIdCertificado in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 12
+[01-Mar-2019 16:26:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 17
+[07-Mar-2019 08:04:26 America/New_York] PHP Notice:  Undefined index: txtIdCertificado in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 12
+[07-Mar-2019 08:04:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 17
+[07-Mar-2019 08:04:28 America/New_York] PHP Notice:  Undefined index: txtIdCertificado in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 12
+[07-Mar-2019 08:04:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 17
+[01-Apr-2019 10:53:36 America/New_York] PHP Notice:  Undefined index: txtIdCertificado in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 12
+[01-Apr-2019 10:53:36 America/New_York] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 17

@@ -1,0 +1,229 @@
+[25-Feb-2019 22:31:25 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 5
+[25-Feb-2019 22:31:25 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[25-Feb-2019 22:31:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[25-Feb-2019 22:44:52 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 5
+[25-Feb-2019 22:44:52 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[25-Feb-2019 22:44:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[25-Feb-2019 22:45:15 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 5
+[25-Feb-2019 22:45:15 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[25-Feb-2019 22:45:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[25-Feb-2019 22:50:58 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 5
+[25-Feb-2019 22:50:58 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[25-Feb-2019 22:50:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[25-Feb-2019 23:00:11 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 5
+[25-Feb-2019 23:00:11 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[25-Feb-2019 23:00:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[25-Feb-2019 23:02:12 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 5
+[25-Feb-2019 23:02:12 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[25-Feb-2019 23:02:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[25-Feb-2019 23:02:25 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 5
+[25-Feb-2019 23:02:25 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[25-Feb-2019 23:02:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 05:50:00 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 5
+[26-Feb-2019 05:50:00 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[26-Feb-2019 05:50:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 05:50:01 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 5
+[26-Feb-2019 05:50:01 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[26-Feb-2019 05:50:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 05:50:06 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 5
+[26-Feb-2019 05:50:06 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[26-Feb-2019 05:50:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 05:50:06 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 5
+[26-Feb-2019 05:50:06 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[26-Feb-2019 05:50:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 05:50:09 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 5
+[26-Feb-2019 05:50:09 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[26-Feb-2019 05:50:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 05:50:09 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 5
+[26-Feb-2019 05:50:09 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[26-Feb-2019 05:50:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 05:50:13 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 5
+[26-Feb-2019 05:50:13 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[26-Feb-2019 05:50:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 05:50:13 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 5
+[26-Feb-2019 05:50:13 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[26-Feb-2019 05:50:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 06:44:49 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 5
+[26-Feb-2019 06:44:49 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[26-Feb-2019 06:44:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 08:10:48 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 5
+[26-Feb-2019 08:10:48 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[26-Feb-2019 08:10:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 08:11:55 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 5
+[26-Feb-2019 08:11:55 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[26-Feb-2019 08:11:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 08:43:39 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 5
+[26-Feb-2019 08:43:39 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[26-Feb-2019 08:43:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 08:54:53 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 5
+[26-Feb-2019 08:54:53 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[26-Feb-2019 08:54:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 08:56:10 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'joanwgeh_hometrix'@'localhost' (using password: YES) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 6
+[26-Feb-2019 08:56:10 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[26-Feb-2019 08:56:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[26-Feb-2019 08:56:15 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'joanwgeh_hometrix'@'localhost' (using password: YES) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 6
+[26-Feb-2019 08:56:15 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[26-Feb-2019 08:56:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[26-Feb-2019 08:59:38 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'joanwgeh_hometrix'@'localhost' (using password: YES) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 6
+[26-Feb-2019 08:59:38 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[26-Feb-2019 08:59:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[26-Feb-2019 08:59:58 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'joanwgeh_hometrix'@'localhost' (using password: YES) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 6
+[26-Feb-2019 08:59:58 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[26-Feb-2019 08:59:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[26-Feb-2019 09:01:24 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'joanwgeh_hometrix'@'localhost' (using password: YES) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 6
+[26-Feb-2019 09:01:24 America/New_York] PHP Notice:  Undefined index: txtIdCertificado in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 10
+[26-Feb-2019 09:01:24 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[26-Feb-2019 09:01:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[26-Feb-2019 09:01:28 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'joanwgeh_hometrix'@'localhost' (using password: YES) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 6
+[26-Feb-2019 09:01:28 America/New_York] PHP Notice:  Undefined index: txtIdCertificado in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 10
+[26-Feb-2019 09:01:28 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[26-Feb-2019 09:01:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 14
+[26-Feb-2019 09:02:03 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'joanwgeh_hometrix'@'localhost' (using password: YES) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 9
+[26-Feb-2019 09:02:03 America/New_York] PHP Notice:  Undefined index: txtIdCertificado in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 11
+[26-Feb-2019 09:02:03 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 09:02:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 09:02:09 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'joanwgeh_hometrix'@'localhost' (using password: YES) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 9
+[26-Feb-2019 09:02:09 America/New_York] PHP Notice:  Undefined index: txtIdCertificado in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 11
+[26-Feb-2019 09:02:09 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 09:02:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 09:02:14 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'joanwgeh_hometrix'@'localhost' (using password: YES) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 9
+[26-Feb-2019 09:02:14 America/New_York] PHP Notice:  Undefined index: txtIdCertificado in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 11
+[26-Feb-2019 09:02:14 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 09:02:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 09:02:22 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'joanwgeh_hometrix'@'localhost' (using password: YES) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 9
+[26-Feb-2019 09:02:22 America/New_York] PHP Notice:  Undefined index: txtIdCertificado in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 11
+[26-Feb-2019 09:02:22 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 09:02:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 09:04:29 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'joanwgeh_hometrix'@'localhost' (using password: YES) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 6
+[26-Feb-2019 09:04:29 America/New_York] PHP Notice:  Undefined index: txtIdCertificado in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 11
+[26-Feb-2019 09:04:29 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 09:04:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 09:05:18 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'joanwgeh_hometrix'@'localhost' (using password: YES) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 6
+[26-Feb-2019 09:05:18 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 09:05:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 09:06:51 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'joanwgeh_hometrix'@'localhost' (using password: YES) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 6
+[26-Feb-2019 09:06:51 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 09:06:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 16
+[26-Feb-2019 09:07:03 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'joanwgeh_hometrix'@'localhost' (using password: YES) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 6
+[26-Feb-2019 09:07:03 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 09:07:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 16
+[26-Feb-2019 09:07:12 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'joanwgeh_hometrix'@'localhost' (using password: YES) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 6
+[26-Feb-2019 09:07:12 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 09:07:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 16
+[26-Feb-2019 09:11:46 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'joanwgeh_hometrix'@'localhost' (using password: YES) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 6
+[26-Feb-2019 09:11:46 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 09:11:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 16
+[26-Feb-2019 09:11:59 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'joanwgeh_hometrix'@'localhost' (using password: YES) in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/Conexion.php on line 6
+[26-Feb-2019 09:11:59 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 15
+[26-Feb-2019 09:11:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/joanwgeh/certificaciones.joangregorioperez.com/pdf/index.php on line 16
